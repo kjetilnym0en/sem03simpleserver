@@ -1,0 +1,5 @@
+[user]
+	email = kjetilnymoen01@gmail.com
+	name = Kjetil
+[url  config --global url.https://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:@github.com/ .insteadOf https://github.com/
+
